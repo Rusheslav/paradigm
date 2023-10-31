@@ -168,3 +168,6 @@ cython_debug/
 
 .idea/
 /HW3/test.py
+/HW6/Timer.py
+/HW6/mse.py
+/HW6/merge_sort.py
